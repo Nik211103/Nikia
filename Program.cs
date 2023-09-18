@@ -19,4 +19,4 @@ int b = int.Parse(Console.ReadLine());
             Console.WriteLine($"max = {b} , min = {a}");
         } else {
             Console.WriteLine("Числа равны");
-        }
+    }   
